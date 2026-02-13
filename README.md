@@ -27,5 +27,5 @@ This project is built to practice working with APIs, React components, and moder
 ---
 
 ## 📸 Screenshot 
-![Movie Search Screenshot](sss.png)
+![Movie Search Screenshot](ss1.png)
 
